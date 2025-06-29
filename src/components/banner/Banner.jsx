@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from "framer-motion";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import myPic from "../../assets/myPic.jpg";
-import resume from "../../assets/resume2.pdf";
+
 
 const Banner = () => {
     return (
@@ -39,8 +39,8 @@ const Banner = () => {
                             Hire Me
                         </a>
                         <a
-                            href={resume}
-                            target="_blank"
+                            href="/public/resume.pdf"
+                            download="Sumiaya-Akther-Resume.pdf"
                             className="px-6 py-2 border border-[#2c3a4f] text-#2c3a4f rounded-lg hover:bg-cyan-50 transition"
                         >
                             Download CV
