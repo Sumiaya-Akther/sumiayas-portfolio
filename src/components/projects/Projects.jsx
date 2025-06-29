@@ -23,8 +23,8 @@ const projects = [
     features: ["React", "MongoDB", "Express", "JWT", "Tailwind"],
     image: "https://i.ibb.co/rRGLTjDS/knowlegehunt.png",
     live: "https://knowledge-hunting.web.app/",
-    client: "https://github.com/yourname/knowledgeshare-client",
-    server: "https://github.com/yourname/knowledgeshare-server",
+    client: "https://github.com/Sumiaya-Akther/knowledge-hunting-client",
+    server: "https://github.com/Sumiaya-Akther/knowledge-hunting-server",
   },
   {
     name: "Phudu (Doctor Appointment)",
