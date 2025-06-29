@@ -33,7 +33,7 @@ const Banner = () => {
                     </p>
                     <div className="flex justify-center md:justify-start md:flex-row items-center gap-4 mb-6">
                         <a
-                            href="mailto:sumiayaakther15@gmail.com"
+                            href="#contact"
                             className="px-6 py-2 bg-[#2c3a4f] text-white rounded-lg shadow hover:bg-[#345783] transition"
                         >
                             Hire Me
